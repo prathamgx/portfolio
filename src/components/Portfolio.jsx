@@ -22,8 +22,8 @@ const Portfolio = () => {
         {
             id:3,
             src:restaurant,
-            link:"###",
-            code:"###"
+            link:"https://pgsrestaurant.netlify.app/",
+            code:"https://github.com/prathamgx/restaurant"
         },
         {
             id:4,
