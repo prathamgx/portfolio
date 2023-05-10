@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://https://www.linkedin.com/in/pratham-goswami-597bb6168/",
+      href: "https://www.linkedin.com/in/pratham-goswami-597bb6168/",
       style: "rounded-tr-md",
       // rounded top-right medium
     },
